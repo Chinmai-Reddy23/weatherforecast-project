@@ -1,1 +1,1 @@
-# weatherforecast-project
+This project provides real-time weather updates,forecasts,and essential weather details like temperature,humidity,wind speed and condtions for any location worldwide.In this I used a weather API to fetch current and forecasted weather data.Built with HTML,CSS and JavaScript,here this allows users to search for cities and get updated weather information instantly.
